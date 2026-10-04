@@ -15,8 +15,4 @@ I'm a software developer passionate about creating innovative solutions and tack
 - GitHub: [@avi770-apps](https://github.com/avi770-apps)
 - Personal Website: [teletop.biz](https://teletop.biz)
 
-## Contact
 
-- Email: [156335140+avi-dev-user@users.noreply.github.com](mailto:156335140+avi-dev-user@users.noreply.github.com)
-
-<!---[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1FF72F&center=true&vCenter=true&lines=Hello%2C+My+Name+Is+avi-dev-user!)](https://git.io/typing-svg)
